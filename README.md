@@ -10,7 +10,7 @@ This project is a full-featured Library Management System database designed usin
 4. You can now populate it with sample data or integrate it with a front-end application.
 
 ## 🧩 Entity-Relationship Diagram
-![ERD](erd.png)
+![ERD](Untitled.png)
 The png file is the ERD 
 
 ## 🧠 Project Scope (Question 1)
